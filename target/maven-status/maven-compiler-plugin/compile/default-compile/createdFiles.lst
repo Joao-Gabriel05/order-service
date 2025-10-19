@@ -1,0 +1,7 @@
+store/order/OrderResource.class
+store/order/OrderMapper.class
+store/order/OrderItemModel.class
+store/order/OrderService.class
+store/order/OrderApplication.class
+store/order/OrderModel.class
+store/order/OrderRepository.class
